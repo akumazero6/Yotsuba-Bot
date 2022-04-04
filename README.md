@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/iamherok/Cara_public"><img src="https://i.ytimg.com/vi/1XTkds78fOw/maxresdefault.jpg" alt="chitoge" border="0"></a>
+<a href="https://github.com/iamherok/Cara_public"><img src="https://i.ibb.co/tmdNhZ1/IMG-20220403-WA0172.jpg" alt="chitoge" border="0"></a>
 
 # **luffy : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
