@@ -95,7 +95,7 @@ export default class MessageHandler {
 			)}`
 		   );
 			if (!command)
-			return void M.reply( await request.buffer(`https://c.tenor.com/uPVJO4UsB0MAAAPo/yotsuba-nakano-laugh.mp4`),
+			return void M.reply( await request.buffer(`https://telegra.ph/file/6d0addaf8fb59200ffc0d.mp4`),
                     MessageType.video,
                     Mimetype.gif,
                     undefined,
